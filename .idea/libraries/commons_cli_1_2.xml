@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="commons-cli-1.2">
+    <CLASSES>
+      <root url="jar://D:/dev/maven/repository/commons-cli/commons-cli/1.2/commons-cli-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/dev/maven/repository/commons-cli/commons-cli/1.2/commons-cli-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

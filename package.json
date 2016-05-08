@@ -1,0 +1,33 @@
+{
+  "name": "react-native-send-wechat-android",
+  "version": "1.0.8",
+  "description": "本项目为React Native的Android原生模块，使用Android Intent打开微信朋友圈分享窗口",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "intent",
+    "send",
+    "sent",
+    "share",
+    "text",
+    "phone",
+    "sms",
+    "call",
+    "calls",
+    "dial",
+    "number",
+    "android"
+  ],
+  "author": "jian <j010wdz@126.com>",
+  "license": "MIT",
+  "repository": "https://github.com/j010wdz/react-native-send-wechat-android",
+  "bugs": "https://github.com/j010wdz/react-native-send-wechat-android/issues",
+  "peerDependencies": {
+    "react-native": ">=0.13"
+  }
+}
