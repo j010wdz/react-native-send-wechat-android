@@ -2,800 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b28fd03d-2f3b-45fb-91ab-b5c7f7a34fc0" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/manifest/tmp/manifestMerger2601048905111707658.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/DEFS" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/DevExperience.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/gradle.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/libs/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/release.gradle" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/assets/AndroidTestBundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/assets/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/assets/ScrollViewTestModule.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/assets/TestBundle.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/buck-runner/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/buck-runner/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/java/com/facebook/react/testing/AbstractScrollViewTestCase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/java/com/facebook/react/testing/AssertModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/java/com/facebook/react/testing/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/java/com/facebook/react/testing/FakeAsyncLocalStorage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/java/com/facebook/react/testing/IdleWaiter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/java/com/facebook/react/testing/InstanceSpecForTestPackage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/java/com/facebook/react/testing/IntRecordingModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/java/com/facebook/react/testing/JSIntegrationTestChecker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/java/com/facebook/react/testing/MultipleFailureException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/java/com/facebook/react/testing/NetworkRecordingModuleMock.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/java/com/facebook/react/testing/ReactAppInstrumentationTestCase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/java/com/facebook/react/testing/ReactAppTestActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/java/com/facebook/react/testing/ReactBridgeIdleSignaler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/java/com/facebook/react/testing/ReactIdleDetectionUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/java/com/facebook/react/testing/ReactInstanceSpecForTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/java/com/facebook/react/testing/ReactIntegrationTestCase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/java/com/facebook/react/testing/ReactSettingsForTests.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/java/com/facebook/react/testing/ReactTestFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/java/com/facebook/react/testing/ReactTestHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/java/com/facebook/react/testing/ScreenshotingFrameLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/java/com/facebook/react/testing/SingleTouchGestureGenerator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/java/com/facebook/react/testing/StringRecordingModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/java/com/facebook/react/tests/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/java/com/facebook/react/tests/ReactHorizontalScrollViewTestCase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/androidTest/java/com/facebook/react/tests/ReactScrollViewTestCase.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/android_res/android/support/v7/appcompat-orig/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/csslayout/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/csslayout/CSSAlign.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/csslayout/CSSConstants.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/csslayout/CSSDirection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/csslayout/CSSFlexDirection.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/csslayout/CSSJustify.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/csslayout/CSSLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/csslayout/CSSLayoutContext.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/csslayout/CSSMeasureMode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/csslayout/CSSNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/csslayout/CSSPositionType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/csslayout/CSSStyle.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/csslayout/CSSWrap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/csslayout/CachedCSSLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/csslayout/FloatUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/csslayout/LayoutEngine.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/csslayout/MeasureOutput.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/csslayout/README" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/csslayout/README.facebook" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/csslayout/Spacing.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/csslayout/syncFromGithub.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/jni/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/jni/Countable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/jni/CppException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/jni/CppSystemErrorException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/jni/HybridData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/jni/Prerequisites.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/jni/UnknownCppException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/perftest/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/perftest/PerfTestConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/proguard/annotations/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/proguard/annotations/DoNotStrip.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/proguard/annotations/KeepGettersAndSetters.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/proguard/annotations/proguard_annotations.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/quicklog/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/quicklog/QuickPerformanceLogger.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/quicklog/QuickPerformanceLoggerProvider.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/quicklog/identifiers/ActionId.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/quicklog/identifiers/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/quicklog/identifiers/ReactNativeBridge.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/CompositeReactPackage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/CoreModulesPackage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/JSCConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/LifecycleState.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/MemoryPressureRouter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/ReactActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/ReactInstanceManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/ReactInstanceManagerImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/ReactPackage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/ReactRootView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/animated/AnimatedNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/animated/AnimationDriver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/animated/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/animated/FrameBasedAnimationDriver.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/animated/NativeAnimatedModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/animated/NativeAnimatedNodesManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/animated/PropsAnimatedNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/animated/StyleAnimatedNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/animated/ValueAnimatedNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/animation/AbstractFloatPairPropertyUpdater.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/animation/AbstractSingleFloatProperyUpdater.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/animation/Animation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/animation/AnimationListener.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/animation/AnimationPropertyUpdater.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/animation/AnimationRegistry.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/animation/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/animation/ImmediateAnimation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/animation/NoopAnimationPropertyUpdater.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/animation/OpacityAnimationPropertyUpdater.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/animation/PositionAnimationPairPropertyUpdater.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/animation/RotationAnimationPropertyUpdater.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/animation/ScaleXAnimationPropertyUpdater.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/animation/ScaleXYAnimationPairPropertyUpdater.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/animation/ScaleYAnimationPropertyUpdater.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/ActivityEventListener.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/Arguments.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/AssertionException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/BaseJavaModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/Callback.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/CallbackImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/CatalystInstance.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/CatalystInstanceImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/DefaultNativeModuleCallExceptionHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/ExecutorToken.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/GuardedAsyncTask.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/GuardedResultAsyncTask.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/InvalidIteratorException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/JSApplicationCausedNativeException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/JSApplicationIllegalArgumentException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/JSBundleLoader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/JSCJavaScriptExecutor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/JSDebuggerWebSocketClient.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/JSExecutionException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/JavaJSExecutor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/JavaOnlyArray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/JavaOnlyMap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/JavaScriptExecutor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/JavaScriptModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/JavaScriptModuleRegistration.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/JavaScriptModuleRegistry.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/JavaScriptModulesConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/JsonWriter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/JsonWriterHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/LifecycleEventListener.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/MemoryPressure.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/MemoryPressureListener.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/NativeArgumentsParseException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/NativeArray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/NativeMap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/NativeModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/NativeModuleCallExceptionHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/NativeModuleRegistry.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/NoSuchKeyException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/NotThreadSafeBridgeIdleDebugListener.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/ObjectAlreadyConsumedException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/OnBatchCompleteListener.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/OnExecutorUnregisteredListener.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/Promise.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/PromiseImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/ProxyJavaScriptExecutor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/ReactApplicationContext.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/ReactBridge.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/ReactCallback.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/ReactContext.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/ReactContextBaseJavaModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/ReactMarker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/ReactMarkerConstants.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/ReactMethod.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/ReadableArray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/ReadableMap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/ReadableMapKeySetIterator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/ReadableNativeArray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/ReadableNativeMap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/ReadableType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/SoftAssertions.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/SupportsWebWorkers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/Systrace.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/UiThreadUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/UnexpectedNativeTypeException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/WebsocketJavaScriptExecutor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/WritableArray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/WritableMap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/WritableNativeArray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/WritableNativeMap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/package_js.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/queue/MessageQueueThread.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/queue/MessageQueueThreadHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/queue/MessageQueueThreadImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/queue/MessageQueueThreadRegistry.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/queue/MessageQueueThreadSpec.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/queue/NativeRunnable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/queue/NativeRunnableDeprecated.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/queue/ProxyQueueThreadExceptionHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/queue/QueueThreadExceptionHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/queue/ReactQueueConfiguration.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/queue/ReactQueueConfigurationImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/queue/ReactQueueConfigurationSpec.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/bridge/webworkers/WebWorkers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/common/ApplicationHolder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/common/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/common/LongArray.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/common/MapBuilder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/common/ReactConstants.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/common/SetBuilder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/common/ShakeDetector.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/common/SystemClock.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/common/annotations/VisibleForTesting.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/common/build/ReactBuildConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/common/futures/SimpleSettableFuture.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/devsupport/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/devsupport/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/devsupport/DebugOverlayController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/devsupport/DebugServerException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/devsupport/DevInternalSettings.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/devsupport/DevOptionHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/devsupport/DevServerHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/devsupport/DevSettingsActivity.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/devsupport/DevSupportManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/devsupport/DevSupportManagerFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/devsupport/DevSupportManagerImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/devsupport/DisabledDevSupportManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/devsupport/FpsView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/devsupport/HMRClient.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/devsupport/ReactInstanceDevCommandsHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/devsupport/RedBoxDialog.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/devsupport/StackTraceHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/appstate/AppStateModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/appstate/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/camera/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/camera/CameraRollManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/camera/ImageEditingManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/camera/ImageStoreManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/clipboard/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/clipboard/ClipboardModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/common/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/common/ModuleDataCleaner.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/core/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/core/DefaultHardwareBackBtnHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/core/DeviceEventManagerModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/core/ExceptionsManagerModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/core/JSTimersExecution.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/core/JavascriptException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/core/RCTNativeAppEventEmitter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/core/Timing.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/datepicker/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/datepicker/DatePickerDialogFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/datepicker/DatePickerDialogModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/datepicker/DismissableDatePickerDialog.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/datepicker/SupportDatePickerDialogFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/debug/AnimationsDebugModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/debug/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/debug/DeveloperSettings.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/debug/DidJSUpdateUiDuringFrameDetector.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/debug/FpsDebugFrameCallback.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/debug/SourceCodeModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/dialog/AlertFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/dialog/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/dialog/DialogModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/dialog/SupportAlertFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/fresco/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/fresco/FrescoModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/fresco/SystraceRequestListener.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/image/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/image/ImageLoaderModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/intent/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/intent/IntentModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/location/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/location/LocationModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/netinfo/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/netinfo/NetInfoModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/network/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/network/ForwardingCookieHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/network/NetworkInterceptorCreator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/network/NetworkingModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/network/OkHttpClientProvider.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/network/RequestBodyUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/statusbar/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/statusbar/StatusBarModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/storage/AsyncLocalStorageUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/storage/AsyncStorageErrorUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/storage/AsyncStorageModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/storage/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/storage/ReactDatabaseSupplier.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/systeminfo/AndroidInfoHelpers.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/systeminfo/AndroidInfoModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/systeminfo/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/timepicker/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/timepicker/DismissableTimePickerDialog.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/timepicker/SupportTimePickerDialogFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/timepicker/TimePickerDialogFragment.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/timepicker/TimePickerDialogModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/toast/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/toast/ToastModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/vibration/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/vibration/VibrationModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/websocket/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/modules/websocket/WebSocketModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/processing/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/processing/ReactPropertyProcessor.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/shell/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/shell/MainReactPackage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/touch/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/touch/JSResponderHandler.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/touch/OnInterceptTouchEventListener.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/touch/ReactHitSlopView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/touch/ReactInterceptingViewGroup.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/AccessibilityHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/AppRegistry.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/BaseViewManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/DisplayMetricsHolder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/GuardedChoreographerFrameCallback.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/IllegalViewOperationException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/JSTouchDispatcher.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/LayoutShadowNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/MeasureSpecAssertions.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/NativeViewHierarchyManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/NativeViewHierarchyOptimizer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/NoSuchNativeViewException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/OnLayoutEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/PixelUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/PointerEvents.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/ReactChoreographer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/ReactCompoundView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/ReactCompoundViewGroup.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/ReactInvalidPropertyException.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/ReactPointerEventsView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/ReactShadowNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/ReactStylesDiffMap.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/RootView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/RootViewManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/RootViewUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/ShadowNodeRegistry.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/SimpleViewManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/SizeMonitoringFrameLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/ThemedReactContext.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/TouchTargetHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/UIImplementation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/UIImplementationProvider.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/UIManagerModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/UIManagerModuleConstants.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/UIManagerModuleConstantsHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/UIViewOperationQueue.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/ViewAtIndex.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/ViewDefaults.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/ViewGroupManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/ViewManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/ViewManagerPropertyUpdater.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/ViewManagerRegistry.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/ViewManagersPropertyCache.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/ViewProps.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/annotations/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/annotations/ReactProp.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/annotations/ReactPropGroup.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/annotations/ReactPropertyHolder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/debug/DebugComponentOwnershipModule.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/debug/NotThreadSafeViewHierarchyUpdateDebugListener.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/events/Event.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/events/EventDispatcher.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/events/NativeGestureUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/events/RCTEventEmitter.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/events/TouchEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/events/TouchEventCoalescingKeyHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/events/TouchEventType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/events/TouchesHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/layoutanimation/AbstractLayoutAnimation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/layoutanimation/AnimatedPropertyType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/layoutanimation/BaseLayoutAnimation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/layoutanimation/HandlesLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/layoutanimation/InterpolatorType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/layoutanimation/LayoutAnimationController.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/layoutanimation/LayoutAnimationType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/layoutanimation/LayoutCreateAnimation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/layoutanimation/LayoutUpdateAnimation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/layoutanimation/OpacityAnimation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/layoutanimation/PositionAndSizeAnimation.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/uimanager/layoutanimation/SimpleSpringInterpolator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/art/ARTGroupShadowNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/art/ARTRenderableViewManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/art/ARTShapeShadowNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/art/ARTSurfaceView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/art/ARTSurfaceViewManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/art/ARTSurfaceViewShadowNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/art/ARTTextShadowNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/art/ARTVirtualNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/art/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/art/PropHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/drawer/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/drawer/ReactDrawerLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/drawer/ReactDrawerLayoutManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/drawer/events/DrawerClosedEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/drawer/events/DrawerOpenedEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/drawer/events/DrawerSlideEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/drawer/events/DrawerStateChangedEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/image/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/image/ImageLoadEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/image/ImageResizeMode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/image/ReactImageManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/image/ReactImageView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/image/ResourceDrawableIdHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/modal/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/modal/ModalHostShadowNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/modal/ReactModalHostManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/modal/ReactModalHostView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/modal/RequestCloseEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/modal/ShowEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/picker/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/picker/ReactDialogPickerManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/picker/ReactDropdownPickerManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/picker/ReactPicker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/picker/ReactPickerManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/picker/events/PickerItemSelectEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/progressbar/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/progressbar/ProgressBarContainerView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/progressbar/ProgressBarShadowNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/progressbar/ReactProgressBarViewManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/recyclerview/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/recyclerview/ContentSizeChangeEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/recyclerview/NotAnimatedItemAnimator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/recyclerview/RecyclerViewBackedScrollView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/recyclerview/RecyclerViewBackedScrollViewManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/scroll/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/scroll/OnScrollDispatchHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/scroll/ReactHorizontalScrollView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/scroll/ReactHorizontalScrollViewManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/scroll/ReactScrollView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/scroll/ReactScrollViewCommandHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/scroll/ReactScrollViewHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/scroll/ReactScrollViewManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/scroll/ScrollEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/scroll/ScrollEventType.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/slider/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/slider/ReactSlider.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/slider/ReactSliderEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/slider/ReactSliderManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/slider/ReactSlidingCompleteEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/swiperefresh/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/swiperefresh/ReactSwipeRefreshLayout.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/swiperefresh/RefreshEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/swiperefresh/SwipeRefreshLayoutManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/switchview/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/switchview/ReactSwitch.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/switchview/ReactSwitchEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/switchview/ReactSwitchManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/text/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/text/CustomStyleSpan.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/text/DefaultStyleValuesUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/text/ReactFontManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/text/ReactRawTextManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/text/ReactTagSpan.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/text/ReactTextInlineImageShadowNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/text/ReactTextShadowNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/text/ReactTextUpdate.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/text/ReactTextView.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/text/ReactTextViewManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/text/ReactVirtualTextViewManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/text/ShadowStyleSpan.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/text/TextInlineImageSpan.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/text/frescosupport/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/text/frescosupport/FrescoBasedReactTextInlineImageShadowNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/text/frescosupport/FrescoBasedReactTextInlineImageSpan.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/text/frescosupport/FrescoBasedReactTextInlineImageViewManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/textinput/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/textinput/ReactEditText.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/textinput/ReactTextChangedEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/textinput/ReactTextInputBlurEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/textinput/ReactTextInputEndEditingEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/textinput/ReactTextInputEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/textinput/ReactTextInputFocusEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/textinput/ReactTextInputManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/textinput/ReactTextInputSelectionEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/textinput/ReactTextInputShadowNode.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/textinput/ReactTextInputSubmitEditingEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/textinput/SelectionWatcher.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/toolbar/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/toolbar/DrawableWithIntrinsicSize.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/toolbar/ReactToolbar.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/toolbar/ReactToolbarManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/toolbar/events/ToolbarClickEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/view/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/view/ColorUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/view/ReactClippingViewGroup.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/view/ReactClippingViewGroupHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/view/ReactDrawableHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/view/ReactViewBackgroundDrawable.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/view/ReactViewGroup.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/view/ReactViewManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/viewpager/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/viewpager/PageScrollEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/viewpager/PageScrollStateChangedEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/viewpager/PageSelectedEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/viewpager/ReactViewPager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/viewpager/ReactViewPagerManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/webview/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/webview/ReactWebViewManager.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/webview/WebViewConfig.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/webview/events/TopLoadingErrorEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/webview/events/TopLoadingFinishEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/react/views/webview/events/TopLoadingStartEvent.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/systrace/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/systrace/Systrace.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/systrace/SystraceMessage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/java/com/facebook/systrace/TraceListener.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/Application.mk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/fb/Android.mk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/fb/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/fb/Countable.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/fb/ProgramLocation.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/fb/RefPtr.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/fb/StaticInitialized.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/fb/ThreadLocal.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/fb/assert.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/fb/include/fb/assert.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/fb/include/fb/log.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/fb/log.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/fb/noncopyable.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/fb/nonmovable.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/fbgloginit/Android.mk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/fbgloginit/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/fbgloginit/fb/glog_init.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/fbgloginit/glog_init.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/ALog.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/Android.mk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/Countable.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/Countable.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/Doxyfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/Environment.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/Environment.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/GlobalReference.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/LocalReference.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/LocalString.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/LocalString.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/OnLoad.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/Registration.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/WeakReference.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/WeakReference.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni/ByteBuffer.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni/ByteBuffer.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni/Common.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni/Context.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni/CoreClasses-inl.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni/CoreClasses.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni/Exceptions.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni/Exceptions.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni/File.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni/Hybrid.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni/Hybrid.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni/Iterator-inl.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni/Iterator.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni/Meta-forward.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni/Meta-inl.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni/Meta.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni/MetaConvert.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni/ReferenceAllocators-inl.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni/ReferenceAllocators.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni/References-forward.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni/References-inl.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni/References.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni/References.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni/Registration-inl.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni/Registration.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni/TypeTraits.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/fbjni/android/ReferenceChecking.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/jni_helpers.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/first-party/jni/jni_helpers.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/prebuilt/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/prebuilt/lib/DUMMY" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/prebuilt/lib/armeabi-v7a/libfb.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/prebuilt/lib/armeabi-v7a/libfbjni.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/prebuilt/lib/armeabi-v7a/libfolly_json.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/prebuilt/lib/armeabi-v7a/libglog.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/prebuilt/lib/armeabi-v7a/libglog_init.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/prebuilt/lib/armeabi-v7a/libgnustl_shared.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/prebuilt/lib/armeabi-v7a/libreactnativejni.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/prebuilt/lib/x86/libfb.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/prebuilt/lib/x86/libfbjni.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/prebuilt/lib/x86/libfolly_json.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/prebuilt/lib/x86/libglog.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/prebuilt/lib/x86/libglog_init.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/prebuilt/lib/x86/libgnustl_shared.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/prebuilt/lib/x86/libreactnativejni.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/Android.mk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/Bridge.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/Bridge.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/Executor.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/ExecutorToken.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/ExecutorTokenFactory.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/JSCExecutor.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/JSCExecutor.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/JSCHelpers.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/JSCHelpers.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/JSCLegacyProfiler.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/JSCLegacyProfiler.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/JSCMemory.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/JSCMemory.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/JSCPerfStats.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/JSCPerfStats.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/JSCTracing.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/JSCTracing.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/JSModulesUnbundle.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/MessageQueueThread.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/MethodCall.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/MethodCall.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/Platform.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/Platform.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/Value.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/Value.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/jni/Android.mk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/jni/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/jni/JExecutorToken.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/jni/JExecutorToken.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/jni/JExecutorTokenFactory.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/jni/JMessageQueueThread.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/jni/JMessageQueueThread.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/jni/JNativeRunnable.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/jni/JSCPerfLogging.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/jni/JSCPerfLogging.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/jni/JSLoader.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/jni/JSLoader.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/jni/JSLogging.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/jni/JSLogging.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/jni/JniJSModulesUnbundle.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/jni/JniJSModulesUnbundle.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/jni/NativeArray.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/jni/NativeArray.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/jni/OnLoad.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/jni/OnLoad.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/jni/ProxyExecutor.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/jni/ProxyExecutor.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/jni/ReadableNativeArray.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/jni/WebWorkers.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/noncopyable.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/perftests/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/perftests/OnLoad.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/test/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/test/Android.mk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/test/jni/Android.mk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/test/jni/Application.mk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/test/jscexecutor.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/test/jsclogging.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/test/methodcall.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/test/run" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/react/test/value.cpp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/third-party/android-ndk/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/third-party/boost/Android.mk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/third-party/double-conversion/Android.mk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/third-party/folly/Android.mk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/third-party/glibc/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/third-party/glog/Android.mk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/third-party/glog/config.h" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/jni/third-party/jsc/Android.mk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/libraries/fbcore/src/main/java/com/facebook/common/logging/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/libraries/fbcore/src/test/java/com/facebook/powermock/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/libraries/fresco/fresco-react-native/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/libraries/soloader/java/com/facebook/soloader/ApkSoSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/libraries/soloader/java/com/facebook/soloader/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/libraries/soloader/java/com/facebook/soloader/DirectorySoSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/libraries/soloader/java/com/facebook/soloader/Elf32_Dyn.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/libraries/soloader/java/com/facebook/soloader/Elf32_Ehdr.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/libraries/soloader/java/com/facebook/soloader/Elf32_Phdr.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/libraries/soloader/java/com/facebook/soloader/Elf32_Shdr.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/libraries/soloader/java/com/facebook/soloader/Elf64_Dyn.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/libraries/soloader/java/com/facebook/soloader/Elf64_Ehdr.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/libraries/soloader/java/com/facebook/soloader/Elf64_Phdr.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/libraries/soloader/java/com/facebook/soloader/Elf64_Shdr.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/libraries/soloader/java/com/facebook/soloader/ExoSoSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/libraries/soloader/java/com/facebook/soloader/FileLocker.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/libraries/soloader/java/com/facebook/soloader/MinElf.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/libraries/soloader/java/com/facebook/soloader/NativeLibrary.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/libraries/soloader/java/com/facebook/soloader/NoopSoSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/libraries/soloader/java/com/facebook/soloader/SoLoader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/libraries/soloader/java/com/facebook/soloader/SoSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/libraries/soloader/java/com/facebook/soloader/SysUtil.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/libraries/soloader/java/com/facebook/soloader/genstructs.sh" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/libraries/soloader/java/com/facebook/soloader/soloader.pro" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/anim/catalyst_push_up_in.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/anim/catalyst_push_up_out.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/layout/fps_view.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/layout/redbox_item_frame.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/layout/redbox_item_title.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/layout/redbox_view.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-cs/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-da/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-de/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-el/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-en-rGB/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-es-rES/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-es/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-fb-rLL/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-fb/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-fi/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-fr/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-hu/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-in/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-it/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-ja/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-ko/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-nb/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-nl/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-pl/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-pt-rPT/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-pt/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-ro/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-ru/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-sv/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-th/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-tr/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-vi/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-zh-rCN/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-zh-rHK/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values-zh-rTW/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values/colors.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values/strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/values/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/devsupport/xml/preferences.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/shell/values/styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/views/modal/anim/slide_down.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/views/modal/anim/slide_up.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/res/views/modal/values/themes.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/third-party/android/support-annotations/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/third-party/android/support/v4/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/third-party/android/support/v7/appcompat-orig/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/third-party/android/support/v7/appcompat-orig/aar-unpacker.py" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/third-party/android/support/v7/recyclerview/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/third-party/java/asm/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/third-party/java/fest/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/third-party/java/infer-annotations/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/third-party/java/jackson/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/third-party/java/javapoet/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/third-party/java/jsr-305/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/third-party/java/junit/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/third-party/java/mockito/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/third-party/java/okhttp/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/third-party/java/okio/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/third-party/java/robolectric3/robolectric/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/third-party/java/sqlite/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/main/third-party/java/testing-support-lib/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/CompositeReactPackageTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/RootViewTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/animated/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/animated/NativeAnimatedNodeTraversalTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/bridge/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/bridge/BaseJavaModuleTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/bridge/JavaScriptModuleConfigTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/bridge/JsonWriterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/bridge/NativeModuleRegistryTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/bridge/ReactTestHelper.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/modules/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/modules/clipboard/ClipboardModuleTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/modules/dialog/DialogModuleTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/modules/network/NetworkingModuleTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/modules/storage/AsyncStorageModuleTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/modules/timing/TimingModuleTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/uimanager/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/uimanager/LayoutPropertyApplicatorTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/uimanager/ReactPropAnnotationSetterSpecTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/uimanager/ReactPropAnnotationSetterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/uimanager/ReactPropConstantsTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/uimanager/ReactPropForShadowNodeSetterTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/uimanager/ReactPropForShadowNodeSpecTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/uimanager/SimpleViewPropertyTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/uimanager/UIManagerModuleConstantsTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/uimanager/UIManagerModuleTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/views/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/views/image/ImageResizeModeTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/views/image/ReactImagePropertyTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/views/text/ReactTextTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/views/textinput/ReactTextInputPropertyTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/views/textinput/TextInputTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/com/facebook/react/views/view/ColorUtilTest.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/org/mockito/configuration/BUCK" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-native/ReactAndroid/src/test/java/org/mockito/configuration/MockitoConfiguration.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/build/intermediates/res/resources-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/outputs/aar/react-native-send-wechat-android-debug.aar" afterPath="$PROJECT_DIR$/build/outputs/aar/react-native-send-wechat-android-debug.aar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/react-native-send-wechat-android.iml" afterPath="$PROJECT_DIR$/react-native-send-wechat-android.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/j010wdz/rnsendwechat/RNSendWeChatModule.java" afterPath="$PROJECT_DIR$/src/main/java/com/j010wdz/rnsendwechat/RNSendWeChatModule.java" />
     </list>
     <ignored path="react-native-send-wechat-android.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -823,12 +39,12 @@
     <favorites_list name="react-native-send-wechat-android" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="RNSendWeChatModule.java" pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="RNSendWeChatModule.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/j010wdz/rnsendwechat/RNSendWeChatModule.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+            <state vertical-scroll-proportion="0.5247093">
+              <caret line="115" column="16" selection-start-line="115" selection-start-column="16" selection-end-line="115" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -836,11 +52,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.75179857">
+            <state vertical-scroll-proportion="0.0">
               <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1694,17 +920,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/j010wdz/rnsendwechat/RNSendWeChatModule.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/j010wdz/rnsendwechat/RNSendWeChatPackage.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/com/j010wdz/rnsendwechat/RNSendWeChatModule.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -1731,31 +957,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react-native-send-wechat-android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react-native-send-wechat-android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="react-native-send-wechat-android" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1798,8 +999,73 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-native-send-wechat-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-native-send-wechat-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-native-send-wechat-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-native-send-wechat-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-native-send-wechat-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-native-send-wechat-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-native-send-wechat-android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="rnsendwechat" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1808,6 +1074,73 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Native>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Java />
+      <Hybrid>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <Native>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Native>
+      <Java />
+      <Hybrid>
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+      </Hybrid>
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <method />
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
@@ -1847,6 +1180,48 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
       <option name="USE_SOCKET_TRANSPORT" value="true" />
       <option name="SERVER_MODE" value="false" />
@@ -1883,6 +1258,34 @@
       <listeners />
       <method />
     </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
     <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
       <option name="MAIN_CLASS_NAME" />
       <option name="HTML_FILE_NAME" />
@@ -1897,6 +1300,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="b28fd03d-2f3b-45fb-91ab-b5c7f7a34fc0" name="Default" comment="" />
@@ -1907,37 +1313,45 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24935733" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -1950,10 +1364,44 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/com/j010wdz/rnsendwechat/RNSendWeChatModule.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/j010wdz/rnsendwechat/RNSendWeChatModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="11" column="47" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1969,9 +1417,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.75179857">
+        <state vertical-scroll-proportion="0.0">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/j010wdz/rnsendwechat/RNSendWeChatModule.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5247093">
+          <caret line="115" column="16" selection-start-line="115" selection-start-column="16" selection-end-line="115" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

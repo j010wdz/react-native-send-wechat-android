@@ -70,7 +70,7 @@ public class RNSendWeChatModule extends ReactContextBaseJavaModule {
      *
      * */
 	@ReactMethod
-	public void sendPicturesToTimeLine(ReadableArray picturePaths, String description) throws Exception {
+	public void sendPicturesToTimeLine(ReadableArray picturePathArray, String description) throws Exception {
 
         Intent intent = new Intent();
         ComponentName comp = new ComponentName("com.tencent.mm", "com.tencent.mm.ui.tools.ShareToTimeLineUI");
@@ -78,7 +78,7 @@ public class RNSendWeChatModule extends ReactContextBaseJavaModule {
         intent.setAction(Intent.ACTION_SEND_MULTIPLE);
         intent.setType("image/*");
 
-        intent.putParcelableArrayListExtra(Intent.EXTRA_STREAM, changePathStrToUriList(picturePaths));
+        intent.putParcelableArrayListExtra(Intent.EXTRA_STREAM, changePathStrToUriList(picturePathArray));
         intent.putExtra("Kdescription", description);
 		
 		//Check that an app exists to receive the intent
@@ -114,14 +114,14 @@ public class RNSendWeChatModule extends ReactContextBaseJavaModule {
      *
      * */
 	@ReactMethod
-	public void sendPicturesToFriend(ReadableArray picturePaths) throws Exception {
+	public void sendPicturesToFriend(ReadableArray picturePathArray) throws Exception {
         Intent intent = new Intent();
         ComponentName comp = new ComponentName("com.tencent.mm", "com.tencent.mm.ui.tools.ShareImgUI");
         intent.setComponent(comp);
         intent.setAction(Intent.ACTION_SEND_MULTIPLE);
         intent.setType("image/*");
 
-        intent.putParcelableArrayListExtra(Intent.EXTRA_STREAM, changePathStrToUriList(picturePaths));
+        intent.putParcelableArrayListExtra(Intent.EXTRA_STREAM, changePathStrToUriList(picturePathArray));
         
 		//Check that an app exists to receive the intent
 		if (intent.resolveActivity(this.reactContext.getPackageManager()) != null) {

@@ -9,32 +9,17 @@ var {Platform, NativeModules} = React;
 var RNSendWeChatAndroid = NativeModules.SendWeChatAndroid;
 
 var SendWeChatAndroid = {
-    TEXT_PLAIN: (Platform.OS === 'android') ? RNSendWeChatAndroid.TEXT_PLAIN : 'text/plain',
-    TEXT_HTML: (Platform.OS === 'android') ? RNSendWeChatAndroid.TEXT_HTML : 'text/html',
-    sendText(config) {
-        if("title" in config && config.title != null && config.title.length > 0)
-        {
-            RNSendWeChatAndroid.sendTextWithTitle(config.title, config.text, (config.type||"text/plain"));
-        }
-        else
-        {
-            RNSendWeChatAndroid.sendText(config.text, (config.type||"text/plain"));
-        }
+    sendPictureToTimeLine(picturePath, description) {
+        RNSendWeChatAndroid.sendPictureToTimeLine(picturePath, description);
     },
-    sendPhoneCall(phoneNumber) {
-        RNSendWeChatAndroid.sendPhoneCall(phoneNumber);
+    sendPicturesToTimeLine(picturePathArray, description) {
+        RNSendWeChatAndroid.sendPicturesToTimeLine(picturePathArray, description);
     },
-    sendPhoneDial(phoneNumber) {
-        RNSendWeChatAndroid.sendPhoneDial(phoneNumber);
+    sendPictureToFriend(picturePath) {
+        RNSendWeChatAndroid.sendPictureToFriend(picturePath);
     },
-    sendSms(phoneNumber, body) {
-        RNSendWeChatAndroid.sendSms(phoneNumber, (body||null));
-    },
-    addCalendarEvent(config) {
-        RNSendWeChatAndroid.addCalendarEvent(config.title, config.description, config.startDate, config.endDate, config.recurrence, config.location);
-    },
-    openCalendar() {
-        RNSendWeChatAndroid.openCalendar();
+    sendPicturesToFriend(picturePathArray) {
+        RNSendWeChatAndroid.sendPicturesToFriend(picturePathArray);
     }
 };
 

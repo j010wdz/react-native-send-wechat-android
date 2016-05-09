@@ -91,7 +91,7 @@ public class MainActivity extends Activity implements DefaultHardwareBackBtnHand
 ```javascript
 var SendWeChatAndroid = require('react-native-send-wechat-android');
 
-SendWeChatAndroid.sharePicturesToTimeLine({
+SendWeChatAndroid.sendPicturesToTimeLine({
   title: '打开微信分享朋友圈的编辑窗口，同时填写好本段文字，并选择好以下图片',
   pictures: '',
 });
