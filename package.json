@@ -1,6 +1,6 @@
 {
   "name": "react-native-send-wechat-android",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "本项目为React Native的Android原生模块，使用Android Intent打开微信朋友圈分享窗口",
   "main": "index.js",
   "scripts": {
