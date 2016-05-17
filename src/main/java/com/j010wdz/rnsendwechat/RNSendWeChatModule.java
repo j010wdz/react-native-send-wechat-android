@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.content.ComponentName;
 import android.net.Uri;
 
+import java.io.File;
 import java.util.ArrayList;
 
 import com.facebook.react.bridge.ReactApplicationContext;
@@ -35,19 +36,25 @@ public class RNSendWeChatModule extends ReactContextBaseJavaModule {
      * */
 	@ReactMethod
 	public void sendPictureToTimeLine(String picturePath, String description) throws Exception {
-        Intent intent = new Intent();
+        final Intent intent = new Intent();
         ComponentName comp = new ComponentName("com.tencent.mm", "com.tencent.mm.ui.tools.ShareToTimeLineUI");
         intent.setComponent(comp);
+		intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
         intent.setAction(Intent.ACTION_SEND);
         intent.setType("image/*");
 
-        intent.putExtra(Intent.EXTRA_STREAM, Uri.parse(picturePath));
+        if (picturePath != null && picturePath.length() > 0) {
+            intent.putExtra(Intent.EXTRA_STREAM, Uri.fromFile(new File(picturePath)));
+        }
         intent.putExtra("Kdescription", description);
         
 		//Check that an app exists to receive the intent
-		if (intent.resolveActivity(this.reactContext.getPackageManager()) != null) {
-			this.reactContext.startActivity(intent);
-		}
+        this.reactContext.runOnNativeModulesQueueThread(new Runnable() {
+            @Override
+            public void run() {
+                reactContext.startActivity(intent);
+            }
+        });
     }
 
     /**
@@ -60,7 +67,10 @@ public class RNSendWeChatModule extends ReactContextBaseJavaModule {
         ArrayList<Uri> list = new ArrayList<Uri>();
         int count = array.size();
         for (int i = 0; i < count; i ++) {
-            list.add(Uri.parse(array.getString(i)));
+            String path = array.getString(i);
+            if (path != null && path.length() > 0) {
+                list.add(Uri.fromFile(new File(path)));
+            }
         }
         return list;
     }
@@ -72,19 +82,25 @@ public class RNSendWeChatModule extends ReactContextBaseJavaModule {
 	@ReactMethod
 	public void sendPicturesToTimeLine(ReadableArray picturePathArray, String description) throws Exception {
 
-        Intent intent = new Intent();
+        final Intent intent = new Intent();
         ComponentName comp = new ComponentName("com.tencent.mm", "com.tencent.mm.ui.tools.ShareToTimeLineUI");
         intent.setComponent(comp);
+		intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
         intent.setAction(Intent.ACTION_SEND_MULTIPLE);
         intent.setType("image/*");
 
-        intent.putParcelableArrayListExtra(Intent.EXTRA_STREAM, changePathStrToUriList(picturePathArray));
+		if (picturePathArray != null && picturePathArray.size() > 0) {
+			intent.putParcelableArrayListExtra(Intent.EXTRA_STREAM, changePathStrToUriList(picturePathArray));
+		}
         intent.putExtra("Kdescription", description);
 		
 		//Check that an app exists to receive the intent
-		if (intent.resolveActivity(this.reactContext.getPackageManager()) != null) {
-			this.reactContext.startActivity(intent);
-		}
+        this.reactContext.runOnNativeModulesQueueThread(new Runnable() {
+            @Override
+            public void run() {
+                reactContext.startActivity(intent);
+            }
+        });
     }
 	
 	/**
@@ -94,18 +110,24 @@ public class RNSendWeChatModule extends ReactContextBaseJavaModule {
      * */
 	@ReactMethod
 	public void sendPictureToFriend(String picturePath) throws Exception {
-        Intent intent = new Intent();
+        final Intent intent = new Intent();
         ComponentName comp = new ComponentName("com.tencent.mm", "com.tencent.mm.ui.tools.ShareImgUI");
         intent.setComponent(comp);
+		intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
         intent.setAction(Intent.ACTION_SEND);
         intent.setType("image/*");
 
-        intent.putExtra(Intent.EXTRA_STREAM, Uri.parse(picturePath));
+        if (picturePath != null && picturePath.length() > 0) {
+            intent.putExtra(Intent.EXTRA_STREAM, Uri.fromFile(new File(picturePath)));
+        }
         
 		//Check that an app exists to receive the intent
-		if (intent.resolveActivity(this.reactContext.getPackageManager()) != null) {
-			this.reactContext.startActivity(intent);
-		}
+        this.reactContext.runOnNativeModulesQueueThread(new Runnable() {
+            @Override
+            public void run() {
+                reactContext.startActivity(intent);
+            }
+        });
     }
 	
 	/**
@@ -115,17 +137,23 @@ public class RNSendWeChatModule extends ReactContextBaseJavaModule {
      * */
 	@ReactMethod
 	public void sendPicturesToFriend(ReadableArray picturePathArray) throws Exception {
-        Intent intent = new Intent();
+        final Intent intent = new Intent();
         ComponentName comp = new ComponentName("com.tencent.mm", "com.tencent.mm.ui.tools.ShareImgUI");
         intent.setComponent(comp);
+		intent.addFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
         intent.setAction(Intent.ACTION_SEND_MULTIPLE);
         intent.setType("image/*");
 
-        intent.putParcelableArrayListExtra(Intent.EXTRA_STREAM, changePathStrToUriList(picturePathArray));
+		if (picturePathArray != null && picturePathArray.size() > 0) {
+			intent.putParcelableArrayListExtra(Intent.EXTRA_STREAM, changePathStrToUriList(picturePathArray));
+		}
         
 		//Check that an app exists to receive the intent
-		if (intent.resolveActivity(this.reactContext.getPackageManager()) != null) {
-			this.reactContext.startActivity(intent);
-		}
+        this.reactContext.runOnNativeModulesQueueThread(new Runnable() {
+            @Override
+            public void run() {
+                reactContext.startActivity(intent);
+            }
+        });
     }
 }
